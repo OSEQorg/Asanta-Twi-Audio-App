@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.33333,0,0,1.33333,0,0)">
+        <g id="_05.100.00-OpenSource-Amplitude" serif:id="05.100.00-OpenSource-Amplitude">
+            <g id="HD_05.100.00-521Website_OpenSource-Amplitude">
+                <g id="Lead-in">
+                    <g id="Player">
+                        <g id="Controllers-Status-Info" serif:id="Controllers/Status/Info">
+                            <g id="Controls">
+                                <g id="Play-Pause" serif:id="Play/Pause">
+                                    <g id="Oval-1">
+                                        <circle cx="30" cy="30" r="30" style="fill:rgb(255,83,13);"/>
+                                        <path id="Play" d="M43.625,29.803L23.646,17.426C22.189,16.474 21,17.173 21,18.988L21,43.011C21,44.823 22.188,45.529 23.646,44.573L43.625,32.198C43.625,32.198 44.336,31.698 44.336,31.001C44.336,30.302 43.625,29.803 43.625,29.803Z" style="fill:white;"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
